@@ -25,5 +25,15 @@ public class CustomerTest {
 	public void searchCustomerTest() {
 		System.out.println("execute searchCustomerTest");
 	}
+	
+	@Test
+	public void test5() {
+		System.out.println("execute test5");
+	}
+	
+	@Test
+	public void test6() {
+		System.out.println("execute test6");
+	}
 
 }
